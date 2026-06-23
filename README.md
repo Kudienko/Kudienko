@@ -9,27 +9,13 @@
 
 <!-- ===== Печатающийся подзаголовок ===== -->
 <a href="https://github.com/Kudienko">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;React+%C2%B7+TypeScript;English+B2+%C2%B7+%E4%BE%8D+from+Tyumen" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;React+%C2%B7+TypeScript;English+B2+%C2%B7+%E4%BE%8D+Remote" alt="typing" />
 </a>
 
 <br/>
 
-<!-- ===== Соцсети (неоновый градиентный свип: cyan -> синий -> фиолет -> пурпур -> розовый) ===== -->
-<a href="https://t.me/fansel666">
-  <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=0A0A16" alt="Telegram"/>
-</a>
-<a href="https://www.linkedin.com/in/ikudienko/">
-  <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"/>
-</a>
-<a href="https://vk.com/fansel666">
-  <img src="https://img.shields.io/badge/VK-8B5CF6?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-</a>
-<a href="https://www.instagram.com/livecreature">
-  <img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:fansel2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF2E6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<!-- ===== Соцсети (неоновый градиентный свип, бейджи вплотную без пробелов) ===== -->
+<a href="https://t.me/fansel666"><img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=0A0A16" alt="Telegram"/></a><a href="https://www.linkedin.com/in/ikudienko/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"/></a><a href="https://vk.com/fansel666"><img src="https://img.shields.io/badge/VK-8B5CF6?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a><a href="https://www.instagram.com/livecreature"><img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="mailto:fansel2002@gmail.com"><img src="https://img.shields.io/badge/Email-FF2E6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -46,7 +32,7 @@
 const ilya: FullStackDeveloper = {
   name:      "Ilya Kudienko",
   role:      "Full-Stack Developer",
-  location:  "Tyumen, Russia",
+  location:  "Remote",
   code:      ["TypeScript", "JavaScript", "Python"],
   backend:   ["Node.js", "NestJS"],
   frontend:  ["React", "TypeScript"],
@@ -142,7 +128,7 @@ const ilya: FullStackDeveloper = {
 
 ### Обо мне
 
-Привет! Я **Илья Кудиенко** — **фулл-стек разработчик** из Тюмени.
+Привет! Я **Илья Кудиенко** — **фулл-стек разработчик**, работаю Remote.
 
 - 💻 **Языки:** TypeScript, JavaScript, Python
 - ⚙️ **Бэкенд:** Node.js, NestJS
