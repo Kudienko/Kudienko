@@ -4,17 +4,17 @@
 
 <div id="header" align="center">
 
-<!-- ===== Анимированный баннер (кастомный SVG) ===== -->
+<!-- ===== Animated banner (custom SVG) ===== -->
 <img src="./assets/header.svg" alt="Ilya Kudienko — Full-Stack Developer" width="100%" />
 
-<!-- ===== Печатающийся подзаголовок ===== -->
+<!-- ===== Typing subtitle ===== -->
 <a href="https://github.com/Kudienko">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;React+%C2%B7+TypeScript;English+B2+%C2%B7+%E4%BE%8D+Remote" alt="typing" />
 </a>
 
 <br/>
 
-<!-- ===== Соцсети (неоновый градиентный свип, бейджи вплотную без пробелов) ===== -->
+<!-- ===== Socials (neon gradient sweep, badges flush together) ===== -->
 <a href="https://t.me/fansel666"><img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=0A0A16" alt="Telegram"/></a><a href="https://www.linkedin.com/in/ikudienko/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"/></a><a href="https://vk.com/fansel666"><img src="https://img.shields.io/badge/VK-8B5CF6?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a><a href="https://www.instagram.com/livecreature"><img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="mailto:fansel2002@gmail.com"><img src="https://img.shields.io/badge/Email-FF2E6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
@@ -37,7 +37,6 @@ const ilya: FullStackDeveloper = {
   backend:   ["Node.js", "NestJS"],
   frontend:  ["React", "TypeScript"],
   english:   "B2",
-  vibe:      "neon | samurai | clean architecture",
 };
 ```
 
@@ -53,6 +52,7 @@ const ilya: FullStackDeveloper = {
 **Frontend**
 
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-0a0a16?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-0a0a16?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-0a0a16?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0a0a16?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-0a0a16?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
@@ -120,41 +120,7 @@ const ilya: FullStackDeveloper = {
 
 <br/>
 
-<!-- ═══════════════════════ РУССКАЯ ВЕРСИЯ ═══════════════════════ -->
-<details>
-<summary>🇷🇺 <b>RU</b></summary>
-
-<br/>
-
-### Обо мне
-
-Привет! Я **Илья Кудиенко** — **фулл-стек разработчик**, работаю Remote.
-
-- 💻 **Языки:** TypeScript, JavaScript, Python
-- ⚙️ **Бэкенд:** Node.js, NestJS
-- 🎨 **Фронтенд:** React, TypeScript
-- 🌐 **Английский:** B2
-- ⛩️ **Вайб:** неон · самурай · чистая архитектура
-
-### Стек
-
-**Фронтенд:** React · TypeScript · JavaScript · HTML · CSS · Redux
-**Бэкенд:** Node.js · NestJS · Express · Python · PostgreSQL · Prisma
-**Инструменты:** Docker · Git · Linux · VS Code · Postman · Figma
-
-### Контакты
-
-- Telegram — [@fansel666](https://t.me/fansel666)
-- LinkedIn — [in/ikudienko](https://www.linkedin.com/in/ikudienko/)
-- VK — [fansel666](https://vk.com/fansel666)
-- Instagram — [livecreature](https://www.instagram.com/livecreature)
-- Email — [fansel2002@gmail.com](mailto:fansel2002@gmail.com)
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════ ФУТЕР ═══════════════════════ -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF2E6E,100:B026FF&height=90&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%20%C2%B7%20thanks%20for%20visiting&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" alt="footer"/>
