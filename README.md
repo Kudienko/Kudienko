@@ -14,21 +14,21 @@
 
 <br/>
 
-<!-- ===== Соцсети ===== -->
+<!-- ===== Соцсети (неоновый градиентный свип: cyan -> синий -> фиолет -> пурпур -> розовый) ===== -->
 <a href="https://t.me/fansel666">
-  <img src="https://img.shields.io/badge/Telegram-0a0a16?style=for-the-badge&logo=telegram&logoColor=00E5FF&labelColor=0a0a16" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=0A0A16" alt="Telegram"/>
 </a>
 <a href="https://www.linkedin.com/in/ikudienko/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a16?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0a0a16" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn"/>
 </a>
 <a href="https://vk.com/fansel666">
-  <img src="https://img.shields.io/badge/VK-0a0a16?style=for-the-badge&logo=vk&logoColor=FF2E6E&labelColor=0a0a16" alt="VK"/>
+  <img src="https://img.shields.io/badge/VK-8B5CF6?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
 <a href="https://www.instagram.com/livecreature">
-  <img src="https://img.shields.io/badge/Instagram-0a0a16?style=for-the-badge&logo=instagram&logoColor=FF2E6E&labelColor=0a0a16" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:fansel2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0a16?style=for-the-badge&logo=gmail&logoColor=B026FF&labelColor=0a0a16" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-FF2E6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -46,12 +46,12 @@
 const ilya: FullStackDeveloper = {
   name:      "Ilya Kudienko",
   role:      "Full-Stack Developer",
-  location:  "Tyumen, Russia 🇷🇺",
+  location:  "Tyumen, Russia",
   code:      ["TypeScript", "JavaScript", "Python"],
   backend:   ["Node.js", "NestJS"],
   frontend:  ["React", "TypeScript"],
   english:   "B2",
-  vibe:      "neon · samurai · clean architecture ⛩️",
+  vibe:      "neon | samurai | clean architecture",
 };
 ```
 
@@ -66,15 +66,30 @@ const ilya: FullStackDeveloper = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux&theme=dark" alt="frontend stack"/>
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-0a0a16?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-0a0a16?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0a0a16?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-0a0a16?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-0a0a16?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptNy4wMzEgOS43NWwtLjIzMi0yLjcxOCAxMC4wNTkuMDAzLjIzLTIuNjIyTDUuNDEyIDQuNDFsLjY5OCA4LjAxaDkuMTI2bC0uMzI2IDMuNDI2LTIuOTEuODA0LTIuOTU1LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdIOC41MzF6Ii8+PC9zdmc+" alt="CSS3"/></a>
+<a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-0a0a16?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux"/></a>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,postgres,prisma&theme=dark" alt="backend stack"/>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-0a0a16?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/></a>
+<a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-0a0a16?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"/></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-0a0a16?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-0a0a16?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-0a0a16?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></a>
+<a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-0a0a16?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma"/></a>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman,figma&theme=dark" alt="tools"/>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-0a0a16?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-0a0a16?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
+<a href="https://github.com/Kudienko"><img src="https://img.shields.io/badge/GitHub-0a0a16?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-0a0a16?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/></a>
+<a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-0a0a16?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-0a0a16?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/></a>
 
 </div>
 
@@ -121,7 +136,7 @@ const ilya: FullStackDeveloper = {
 
 <!-- ═══════════════════════ РУССКАЯ ВЕРСИЯ ═══════════════════════ -->
 <details>
-<summary>🇷🇺 <b>Русская версия</b></summary>
+<summary>🇷🇺 <b>RU</b></summary>
 
 <br/>
 
